@@ -31,7 +31,7 @@
 @import url(../footer/__column-heading/footer__column-heading.css);
 @import url(../footer/__column-link/footer__column-link.css);
 @import url(../footer/__column-links/footer__column-links.css);
-@import url(../blocks/footer/__column/_content_copyright/footer__column_content_copyright.css);
+@import url(../blocks/footer/__column/footer__column.css);
 @import url(../footer/__columns/footer__columns.css);
 @import url(../footer/__social-icon/footer__social-icon.css);
 @import url(../header/__link/header__link.css);
