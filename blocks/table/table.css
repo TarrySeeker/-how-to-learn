@@ -1,3 +1,9 @@
+@import url(../table/__cell/_theme_dark/table__cell_theme_dark.css);
+@import url(../table/__heading/table__heading.css);
+@import url(../table/__text/table__text.css);
+@import url(../table/_theme_dark/table_theme_dark.css);
+@import url(../table/__cell/table__cell.css);
+
 .table {
     display:flex;
     flex-wrap: wrap;
