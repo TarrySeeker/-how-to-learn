@@ -62,7 +62,7 @@
 @import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
 @import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
 @import url(../blocks/video/__iframe/video__iframe.css);
-@import url(../../how-to-learn/blocks/video/__iframes/video__iframes.css);
+@import url(../blocks/video/__iframes/video__iframes.css);
 
 
 
